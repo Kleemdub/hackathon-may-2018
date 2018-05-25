@@ -1,3 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
 body {
-    background: #f00;
+}
+
+.navbar-fixed nav {
+  background-color: black;
+}
+
+#cross {
+  width: 3%;
+}
+
+.brand-logo img {
+  width: 25%;
+}
+
+#login-button {
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+}
+
+.footer {
+  background-color: black;
 }

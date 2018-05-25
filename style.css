@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   padding: 0;
   margin: 0;
@@ -26,3 +27,33 @@ body {
 .footer {
   background-color: black;
 }
+=======
+@font-face {
+    font-family: 'railway_to_hellsregular';
+    src: url('./font/railway_to_hells-webfont.eot');
+    src: url('./font/railway_to_hells-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./font/railway_to_hells-webfont.woff2') format('woff2'),
+         url('./font/railway_to_hells-webfont.woff') format('woff'),
+         url('./font/railway_to_hells-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'romance_fatal_serif_stdRg';
+    src: url('./font/romance_fatal_serif_jc_fonts-webfont.eot');
+    src: url('./font/romance_fatal_serif_jc_fonts-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./font/romance_fatal_serif_jc_fonts-webfont.woff2') format('woff2'),
+         url('./font/romance_fatal_serif_jc_fonts-webfont.woff') format('woff'),
+         url('./font/romance_fatal_serif_jc_fonts-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    /* background: #f00; */
+    font-family: 'romance_fatal_serif_stdRg';
+}
+
+>>>>>>> 965369af557a5e17a9ff113055ea01080f7d2064
